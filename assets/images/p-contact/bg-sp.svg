@@ -1,0 +1,15 @@
+<svg width="750" height="480" viewBox="0 0 750 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:multiply">
+<path d="M750 0H0V479.97H750V0Z" fill="#37A9E1"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<path d="M750 0H0V479.97H750V0Z" fill="#D0D1D1"/>
+</g>
+<path style="mix-blend-mode:multiply" d="M750 0H0V479.97H750V0Z" fill="url(#paint0_linear_62_94390)"/>
+<defs>
+<linearGradient id="paint0_linear_62_94390" x1="375" y1="479.97" x2="375" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0.54" stop-color="white"/>
+<stop offset="1" stop-color="#37A9E1"/>
+</linearGradient>
+</defs>
+</svg>
